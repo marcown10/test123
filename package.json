@@ -1,5 +1,5 @@
 {
-  "name": "todo-app",
+  "name": "react-blog",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,8 +11,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "styled-components": "^6.0.7",
-    "uuid": "^9.0.0"
+    "react-router-dom": "^6.14.2",
+    "styled-components": "^6.0.7"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.4",
